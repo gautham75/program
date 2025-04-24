@@ -2,4 +2,4 @@ def ad(x,y):
    return x+y
 a,c= int(input("enter two numbers: "))
 sum= ad(a,c)
-print("sum = "sum)
+print("sum = sum")
