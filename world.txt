@@ -6,4 +6,4 @@ asdef is_odd_or_even(number):
 num = 6989
 result = is_odd_or_even(num)
 print("The number {num} is {result}.);
-
+iuhje
