@@ -5,4 +5,4 @@ def is_odd_or_even(number):
         return "Odd"
 num = 6989
 result = is_odd_or_even(num)
-print("The number {num} is {result}.")
+print("The number {num} is {result}.)
